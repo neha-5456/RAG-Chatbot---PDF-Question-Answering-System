@@ -76,7 +76,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that reads your PDF documents and
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-chatbot.git
+git clone https://github.com/YOUR_USERNAME/rag-chatbot.git](https://github.com/neha-5456/RAG-Chatbot---PDF-Question-Answering-System.git
 cd rag-chatbot
 ```
 
