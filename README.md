@@ -9,6 +9,12 @@ Upload any PDF → Ask questions in natural language → Get accurate answers wi
 
 ---
 
+## 📸 Demo
+
+![RAG Chatbot Demo](screenshots/rag.png)
+
+---
+
 ## 🎯 What It Does
 
 A Retrieval-Augmented Generation (RAG) chatbot that reads your PDF documents and answers questions about them. Every answer comes with source citations showing exactly which page and chunk the information came from.
@@ -76,7 +82,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that reads your PDF documents and
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-chatbot.git](https://github.com/neha-5456/RAG-Chatbot---PDF-Question-Answering-System.git
+git clone 
 cd rag-chatbot
 ```
 
@@ -132,6 +138,7 @@ rag-chatbot/
 ├── data/               # Sample PDFs for testing
 │   └── sample.pdf      # NovaTech Company Handbook (test document)
 ├── screenshots/        # App screenshots
+│   └── rag.png         # Demo screenshot
 └── README.md
 ```
 
@@ -159,15 +166,6 @@ Tunable parameters in `rag_engine.py`:
 | `k` (retriever)  | 4       | Number of chunks retrieved per query      |
 | `temperature`    | 0       | LLM randomness (0 = deterministic)        |
 | `model`          | gpt-3.5-turbo | OpenAI model used                   |
-
----
-
-## 📸 Screenshots
-
-> Add your app screenshots in the `screenshots/` folder
-
-<!-- ![Chat Interface](screenshots/chat.png) -->
-<!-- ![PDF Upload](screenshots/upload.png) -->
 
 ---
 
