@@ -11,7 +11,7 @@ Upload any PDF → Ask questions in natural language → Get accurate answers wi
 
 ## 📸 Demo
 
-![RAG Chatbot Demo](screenshots/rag.png)
+![RAG Chatbot Demo](rag-chatbot/screenshots/rag.png)
 
 ---
 
